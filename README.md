@@ -11,10 +11,10 @@ This is my first project completed ever in Excel. While it does not contain a lo
 
 Here is a few details about the modified document:
 * Uses a VBA (Visual Basic for Applications) module for the following purposes:
- * Provide a GUI that the user can enter how they want to sort the records in the spreadsheet
- * Sorts the spreadsheet by division (east, north, west, and south)
- * Sorts the spreadsheet by category (advertisng, rent, maintence, etc.)
- * Sorts the spreadsheet by the total price made from previous months
+  * Provide a GUI that the user can enter how they want to sort the records in the spreadsheet
+  * Sorts the spreadsheet by division (east, north, west, and south)
+  * Sorts the spreadsheet by category (advertisng, rent, maintence, etc.)
+  * Sorts the spreadsheet by the total price made from previous months
 * Has a button to easily use our macro
 * Explains how to access the code for those who do not already know how to access VBA within Excel
 
@@ -23,8 +23,8 @@ The purpose of this project was to create a macro using VBA to create headers in
 
 Here is a few details about the modified document:
 * Uses a VBA module for the following purposes:
- * Adds a new line and text above the data in a worksheet
- * Adds formating to the header
- * Allows us to add a header across all and future worksheets in the workbook
+  * Adds a new line and text above the data in a worksheet
+  * Adds formating to the header
+  * Allows us to add a header across all and future worksheets in the workbook
 * Uses a button to easily use our macro
 * Explains how to access the code for those who do not already know how to access VBA within Excel
