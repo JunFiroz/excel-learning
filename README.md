@@ -19,7 +19,7 @@ Here is a few details about the modified document:
 * Explains how to access the code for those who do not already know how to access VBA within Excel
 
 ### Project 2:
-The purpose of this project was to create a macro using VBA to create headers in the first row across all current and future worksheets in this workbook. You can download the file by clicking <i>[here](https://drive.google.com/open?id=1EXn3-N_orztbkdDILYRqZ6jptOyAvgQQ)</i>
+The purpose of this project was to create a macro using VBA to create headers in the first row across all current and future worksheets in this workbook. You can download the file by clicking <i>[here](https://drive.google.com/open?id=1EXn3-N_orztbkdDILYRqZ6jptOyAvgQQ)</i>.
 
 Here is a few details about the modified document:
 * Uses a VBA module for the following purposes:
