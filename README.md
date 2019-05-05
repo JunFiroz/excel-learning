@@ -7,7 +7,7 @@ This repository contains projects that I have modified to improve and show off m
 Instead of committing Excel workbooks, I am going to share the projects I have via Google Drive.
 
 ### Project 1:
-This is my first project completed ever in Excel. While it does not contain a lot of data, purpose of this project was to use Visual Basic for Applications to activate a macro that users can click on and activate. You can download the file by clicking <i>[here](https://drive.google.com/open?id=128ECOWX6KQE6dX5HNtkwAePb2U3sGp5Yi)>.
+This is my first project completed ever in Excel. While it does not contain a lot of data, purpose of this project was to use Visual Basic for Applications to activate a macro that users can click on and activate. You can download the file by clicking <i>[here](https://drive.google.com/open?id=128ECOWX6KQE6dX5HNtkwAePb2U3sGp5Yi)</i>.
 
 Here is a few details about the modified document:
 * Uses a VBA (Visual Basic for Applications) module for the following purposes:
