@@ -1,7 +1,7 @@
 # excel-learning
 ## Welcome!
 
-This repository contains projects that I have modified to improve and show off my skills in Excel. Before modifications are made, these project files come with basic formating. Under each project I mention what I have changed in each file. The original project files came from the course [Microsoft Excel - Excel from Beginner to Advanced](https://www.udemy.com/microsoft-excel-2013-from-beginner-to-advanced-and-beyond/") and was made by Kyle Pew.
+This repository contains projects that I have modified to improve and show off my skills in Excel. Before modifications are made, these project files come with basic formatting. Under each project I mention what I have changed in each file. The original project files came from the course [Microsoft Excel - Excel from Beginner to Advanced](https://www.udemy.com/microsoft-excel-2013-from-beginner-to-advanced-and-beyond/") and was made by Kyle Pew.
 
 ## Excel Files:
 Instead of committing Excel workbooks, I am going to share the projects I have via Google Drive.
