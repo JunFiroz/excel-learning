@@ -28,3 +28,14 @@ Here is a few details about the modified document:
   * Allows us to add a header across all and future worksheets in the workbook
 * Uses a button to easily use our macro
 * Explains how to access the code for those who do not already know how to access VBA within Excel
+
+### Project 3:
+The purpose of this project was to organize mutliple worksheets into one sheet with one click (a macro using VBA). All while formatting and summing the totals. This also works across all current and future worksheets, as long as there are no extra columns. You can download the file by clicking <i>[here](https://drive.google.com/open?id=1obqkGjwFQj-D2S6RNY6mEAV0b0oyZ4XO)</i>.
+
+Here is a few details about the modified document:
+* Uses a VBA module for the following purposes:
+  * Adds tables on a new worksheet based on the data from all other previous worksheets
+  * Sums the totals of each table
+  * Formats each table
+* Explains how to access the code for those who do not already know how to access VBA within Excel
+* Uses a button to easily use our macro
