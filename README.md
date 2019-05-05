@@ -4,7 +4,7 @@
 This repository contains projects that I have modified to improve and show off my skills in Excel. These project files come with basic formating. I mention what I have changed in the description of each project. The original project files came from the course [Microsoft Excel - Excel from Beginner to Advanced](https://www.udemy.com/microsoft-excel-2013-from-beginner-to-advanced-and-beyond/") and was made by Kyle Pew.
 
 ## Excel Files:
-Instead of committing Excel workbooks, I am going to share the projects I have via SharePoint.
+Instead of committing Excel workbooks, I am going to share the projects I have via Google Drive.
 
 ### Project 1:
 This is my first project completed ever in Excel. While it does not contain a lot of data, purpose of this project was to use Visual Basic for Applications to activate a macro that users can click on and activate. You can download the file by clicking <i>[here](https://drive.google.com/file/d/128ECOWX6KQE6dX5HNtkwAePb2U3sGp5Y/view?usp=sharing)</i>.
