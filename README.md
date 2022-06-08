@@ -4,10 +4,10 @@
 This repository contains projects that I have modified to improve and show off my skills in Excel. Before modifications are made, these project files come with basic formatting. Under each project I mention what I have changed in each file. The original project files came from the course [Microsoft Excel - Excel from Beginner to Advanced](https://www.udemy.com/microsoft-excel-2013-from-beginner-to-advanced-and-beyond/) and was made by Kyle Pew.
 
 ## Excel Files:
-Instead of committing Excel workbooks, I am going to share the projects I have via Google Drive.
+Instead of committing Excel workbooks, I am going to share the projects I have via OneDrive.
 
 ### Project 1:
-This is my first project completed ever in Excel. While it does not contain a lot of data, purpose of this project was to use Visual Basic for Applications to activate a macro that users can click on and activate. You can download the file by clicking <i>[here](https://drive.google.com/open?id=128ECOWX6KQE6dX5HNtkwAePb2U3sGp5Y)</i>.
+This is my first project completed ever in Excel. While it does not contain a lot of data, purpose of this project was to use Visual Basic for Applications to activate a macro that users can click on and activate. You can download the file by clicking <i>[here](https://1drv.ms/x/s!AiaNk9UclzQyhL1QZ7Cb0csRoNMwRQ?e=BP7f0K)</i>.
 
 Here is a few details about the modified workbook:
 * Uses a VBA (Visual Basic for Applications) module for the following purposes:
@@ -19,7 +19,7 @@ Here is a few details about the modified workbook:
 * Explains how to access the code for those who do not already know how to access VBA within Excel
 
 ### Project 2:
-The purpose of this project was to create a macro using VBA to create headers in the first row across all current and future worksheets in this workbook. You can download the file by clicking <i>[here](https://drive.google.com/open?id=1EXn3-N_orztbkdDILYRqZ6jptOyAvgQQ)</i>.
+The purpose of this project was to create a macro using VBA to create headers in the first row across all current and future worksheets in this workbook. You can download the file by clicking <i>[here](https://1drv.ms/x/s!AiaNk9UclzQyhL1S4InLIawArNYRng?e=DYneQb)</i>.
 
 Here is a few details about the modified workbook:
 * Uses a VBA module for the following purposes:
@@ -30,7 +30,7 @@ Here is a few details about the modified workbook:
 * Explains how to access the code for those who do not already know how to access VBA within Excel
 
 ### Project 3:
-The purpose of this project was to organize mutliple worksheets into one sheet with one click (a macro using VBA). All while formatting and summing the totals. This also works across all current and future worksheets, as long as there are no extra columns. You can download the file by clicking <i>[here](https://drive.google.com/open?id=1obqkGjwFQj-D2S6RNY6mEAV0b0oyZ4XO)</i>.
+The purpose of this project was to organize mutliple worksheets into one sheet with one click (a macro using VBA). All while formatting and summing the totals. This also works across all current and future worksheets, as long as there are no extra columns. You can download the file by clicking <i>[here](https://1drv.ms/x/s!AiaNk9UclzQyhL1mNOxterWN0aNK9g?e=L68e1h)</i>.
 
 Here is a few details about the modified workbook:
 * Uses a VBA module for the following purposes:
@@ -41,7 +41,7 @@ Here is a few details about the modified workbook:
 * Uses a button to easily use my macro
 
 ### Project 4:
-This project was the first where the excel worksheet was not made by Kyle Pew. In this project, I have utilized tab delimited text files  (provided by Kyle Pew) and imported them via VBA. This is so consumers can import files that were already formated into Excel without having to manually enter in the information. You can download the worksheet and the data by clicking <i>[here](https://drive.google.com/open?id=1KrT2GZni43-E6pCIZ7w_suUyoHq6O8Ah)</i>.
+This project was the first where the excel worksheet was not made by Kyle Pew. In this project, I have utilized tab delimited text files  (provided by Kyle Pew) and imported them via VBA. This is so consumers can import files that were already formated into Excel without having to manually enter in the information. The worksheet and data can be downloaded <i>[here](https://1drv.ms/u/s!AiaNk9UclzQyhL1VsJv_Gb57HcTKeg?e=wDesOl)</i>.
 
 Here is a few details about my workbook:
 * Uses a VBA module for the following purposes:
